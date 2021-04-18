@@ -120,8 +120,9 @@ public class BaseDAO {
      * @param value value to be populated into the given column
      */
     public void setColumnValue(String column, Object value) {
-        if(columnValues == null)
+        if(columnValues == null) {
             columnValues = new HashMap<>();
+        }
 
         columnValues.put(column, value);
     }
@@ -257,7 +258,7 @@ public class BaseDAO {
      * @return ArrayList of key value pairs
      */
     private ArrayList<HashMap<String, Object>> getResultList(ResultSet resultSet) throws SQLException {
-        ArrayList<HashMap<String, Object>> results = new ArrayList<HashMap<String, Object>>();
+        ArrayList<HashMap<String, Object>> results = new ArrayList<>();
         HashMap<String, Object> valuesMap;
 
             ResultSetMetaData metaData = resultSet.getMetaData();

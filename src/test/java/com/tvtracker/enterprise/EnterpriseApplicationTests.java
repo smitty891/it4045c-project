@@ -39,7 +39,7 @@ class EnterpriseApplicationTests {
     }
 
     @Test
-    void userCreatesUserAccount_ReturnsValidAuthenticationToken() throws Exception {
+    void NewUserValidAuthToken() throws Exception {
         returnsUserAccountWithValidToken(whenUserSendsUserAccountWithUniqueUsername());
     }
 
@@ -101,7 +101,7 @@ class EnterpriseApplicationTests {
     }
 
     @Test
-    void userUpdatesMediaEntry_ReturnsSuccessBoolean() throws Exception {
+    void userUpdatesMediaEntry_Success() throws Exception {
         givenUserHasAccount();
         givenUserHasCreatedAMediaEntry();
         int entryId = whenUserUpdatesMediaEntry();

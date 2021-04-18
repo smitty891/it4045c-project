@@ -26,9 +26,9 @@ public class MediaEntryService implements IMediaEntryService {
     @Override
     @CacheEvict(value="mediaEntries", key="#mediaEntry.username")
     public boolean createMediaEntry(MediaEntry mediaEntry) throws SQLException, IOException, ClassNotFoundException {
-        if(mediaEntry == null)
+        if(mediaEntry == null) {
             return false;
-
+        }
         return mediaEntryDAO.save(mediaEntry);
     }
 

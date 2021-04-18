@@ -1,0 +1,36 @@
+2021-04-01 13:43:12,392 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 27584 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 13:43:12,393 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 13:43:12,394 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 13:43:13,478 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.431 seconds (JVM running for 2.045)
+2021-04-01 13:47:56,105 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 30760 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 13:47:56,108 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 13:47:56,108 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 13:47:57,096 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.293 seconds (JVM running for 1.732)
+2021-04-01 13:51:51,152 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests using Java 14.0.1 on Alienware-Laptop with PID 1520 (started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 13:51:51,154 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 13:51:51,154 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: test
+2021-04-01 13:51:52,688 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 1.862 seconds (JVM running for 2.843)
+2021-04-01 14:17:31,712 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 25300 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 14:17:31,714 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 14:17:31,714 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 14:17:32,755 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.34 seconds (JVM running for 1.857)
+2021-04-01 14:24:31,861 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 28508 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 14:24:31,863 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 14:24:31,863 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 14:24:32,854 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.278 seconds (JVM running for 1.779)
+2021-04-01 14:36:47,730 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 14052 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 14:36:47,732 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 14:36:47,732 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 14:36:48,695 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.255 seconds (JVM running for 1.732)
+2021-04-01 15:17:42,790 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 34716 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 15:17:42,792 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 15:17:42,792 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 15:17:43,756 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.259 seconds (JVM running for 1.71)
+2021-04-01 15:23:16,152 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 33388 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 15:23:16,155 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 15:23:16,155 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 15:23:17,153 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.333 seconds (JVM running for 1.811)
+2021-04-01 15:24:52,973 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication using Java 14.0.1 on Alienware-Laptop with PID 10464 (C:\Users\kingn\IdeaProjects\TvTracker\target\classes started by kingn in C:\Users\kingn\IdeaProjects\TvTracker)
+2021-04-01 15:24:52,975 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-04-01 15:24:52,975 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-01 15:24:53,939 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 1.249 seconds (JVM running for 1.728)

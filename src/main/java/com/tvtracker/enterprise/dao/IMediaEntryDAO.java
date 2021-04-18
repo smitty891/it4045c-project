@@ -37,7 +37,7 @@ public interface IMediaEntryDAO {
          * @param id integer uniquely identifying a MediaEntry record
          * @return MediaEntry object representation of corresponding database record
          */
-        MediaEntry fetch(int id) throws SQLException, IOException, ClassNotFoundException;
+        MediaEntry fetchByID(int id) throws SQLException, IOException, ClassNotFoundException;
 
         /**
          * Method for deleting a single MediaEntry record in the database

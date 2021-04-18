@@ -48,7 +48,7 @@ public class MediaEntryDAO extends BaseDAO implements IMediaEntryDAO {
      * @return MediaEntry object representation of corresponding database record
      */
     @Override
-    public MediaEntry fetch(int id) throws SQLException, IOException, ClassNotFoundException {
+    public MediaEntry fetchByID(int id) throws SQLException, IOException, ClassNotFoundException {
         addWhere("id", id);
         List<MediaEntry> entries = parse(select());
 

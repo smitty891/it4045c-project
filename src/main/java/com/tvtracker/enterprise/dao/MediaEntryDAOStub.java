@@ -17,8 +17,8 @@ import java.util.List;
 @Repository
 @Profile("test")
 public class MediaEntryDAOStub implements  IMediaEntryDAO {
-    HashMap<Integer, MediaEntry> entriesByID = new HashMap<Integer, MediaEntry>();
-    HashMap<String, HashMap<Integer, MediaEntry>> entriesByUsername = new HashMap<String, HashMap<Integer, MediaEntry>>();
+    HashMap<Integer, MediaEntry> entriesByID = new HashMap<>();
+    HashMap<String, HashMap<Integer, MediaEntry>> entriesByUsername = new HashMap<>();
 
     /**
      * Method for creating a new MediaEntry record in the database
@@ -60,7 +60,7 @@ public class MediaEntryDAOStub implements  IMediaEntryDAO {
      * @return MediaEntry object representation of corresponding database record
      */
     @Override
-    public MediaEntry fetch(int id) {
+    public MediaEntry fetchByID(int id) {
         return entriesByID.get(id);
     }
 
