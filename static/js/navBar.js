@@ -24,6 +24,7 @@ async function signIn(){
         // post event into iframe
         let tvTrackerIframe = document.getElementById("tvTrackerIframe");
         tvTrackerIframe.contentWindow.postMessage('signedIn', '*');
+        goToFavorites();
     }
     else if (statusCode === 401) {
         alert("Incorrect Password");
@@ -37,6 +38,7 @@ function signOut(){
     hideSignInMessage();
     window.sessionStorage.setItem("TvTrackerToken", undefined);
     window.sessionStorage.setItem("TvTrackerUsername", undefined);
+    window.location.href = '/';
 }
 
 function showSignInMessage(){
